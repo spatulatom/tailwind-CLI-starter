@@ -40,7 +40,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Configure tour template paths
+### Configure your template paths
 - this is how tailwind.config.js looks by default:
 - module.exports = {
   content: ["./src/**/*.{html,js}"],
