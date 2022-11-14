@@ -95,7 +95,7 @@ you might see some underlines there to get rid of them instal postCSS lungage Su
 - now when we run: npm run build a css folder with style.css will get created, in our html file now we can link that css file to our project:
  link rel="stylesheet" href="css/style.css
 
--now when we run: npm run watch it will constantly watch our changes  
+- now when we run: npm run watch it will constantly watch our changes  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
